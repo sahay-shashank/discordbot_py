@@ -1,0 +1,12 @@
+floss_gif=[
+    'https://media.giphy.com/media/2YfDTS841f1mC3CFSx/giphy.gif',
+    'https://media.giphy.com/media/XDXNhBZTkKzNlbzznI/giphy.gif',
+    'https://media.giphy.com/media/3op5Txe6mc36sGbwOs/giphy.gif',
+    'https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif',
+    'https://media.giphy.com/media/1yk0tvQtcpnaIawrMO/giphy.gif',
+    'https://media.giphy.com/media/X8xNNDuNaJQprnfmsY/giphy.gif',
+    'https://media.giphy.com/media/QA6tYZ5iarLjrnE8TU/giphy.gif',
+    'https://media.giphy.com/media/F3LrmJwPFY0SeAb617/giphy.gif',
+    'https://media.giphy.com/media/McgdVGvle95WBO9cVT/giphy.gif',
+    'https://media.giphy.com/media/fYByAlVHRlTUMoQ7Nx/giphy.gif',
+]

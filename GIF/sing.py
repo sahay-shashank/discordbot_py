@@ -1,0 +1,17 @@
+sing_gif=[
+    'https://giphy.com/clips/tlceurope-SZEYC7rEAj14tNnu2p',
+    'https://media.giphy.com/media/3o7qDO695BaYadBNEA/giphy.gif',
+    'https://media.giphy.com/media/xT39D3tWC0jLA845s4/giphy.gif',
+    'https://media.giphy.com/media/h1RM9LfnL6PZAdKieL/giphy.gif',
+    'https://media.giphy.com/media/l0K4hlUSxMWHhvdn2/giphy.gif',
+    'https://media.giphy.com/media/l0Ex5Ygan6Aacehry/giphy.gif',
+    'https://media.giphy.com/media/2wcnv9rQzfTb2/giphy.gif',
+    'https://media.giphy.com/media/xUOwGeQ6ZwxtquwI3S/giphy.gif',
+    'https://media.giphy.com/media/l2JhyHhC1Z7AoFjfq/giphy.gif',
+    'https://media.giphy.com/media/26u4hJYRDuiWZEtrO/giphy.gif',
+    'https://media.giphy.com/media/l0MYQsQZX4rrdozgA/giphy.gif',
+    'https://media.giphy.com/media/jIhWEyt270s02DmIxP/giphy.gif',
+    'https://media.giphy.com/media/h1RDdPJk4lNf1Nw9Ip/giphy.gif',
+    'https://media.giphy.com/media/M9IFUhOAjJz1hHeBBf/giphy.gif',
+    'https://media.giphy.com/media/YnRTEa1IuJE0E/giphy.gif',
+    ]

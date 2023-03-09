@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./GIF",
+        "./important_files"
+    ]
+}

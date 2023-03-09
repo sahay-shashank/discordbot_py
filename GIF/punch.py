@@ -1,0 +1,19 @@
+punch_gif=[
+    'https://media.giphy.com/media/1Bgr0VaRnx3pCZbaJa/giphy.gif',
+    'https://media.giphy.com/media/yo3TC0yeHd53G/giphy.gif',
+    'https://media.giphy.com/media/DuVRadBbaX6A8/giphy.gif',
+    'https://media.giphy.com/media/XKO2OnnJnmqxW/giphy.gif',
+    'https://media.giphy.com/media/AlsIdbTgxX0LC/giphy.gif',
+    'https://media.giphy.com/media/Z5zuypybI5dYc/giphy.gif',
+    'https://media.giphy.com/media/1426DjQ2dTFkzK/giphy.gif',
+    'https://media1.tenor.com/images/2b5d7bb1dd4a8e64869c33499c409582/tenor.gif?itemid=9509158',
+    'https://media1.tenor.com/images/2efcac044a4f9f2377b118b1cc6282cb/tenor.gif?itemid=13142576',
+    'https://media1.tenor.com/images/5109707cae9958f6ab63206037954a25/tenor.gif?itemid=18105611',
+    'https://media1.tenor.com/images/709e94a0a8be1ea0d5bb3ac7401b0c76/tenor.gif?itemid=16122730',
+    'https://media1.tenor.com/images/c8b23f7c445e9f018faffd35f93a552e/tenor.gif?itemid=13994709',
+    'https://cdn.weeb.sh/images/rkkZP6Z-G.gif',
+    'https://cdn.weeb.sh/images/BkdyPTZWz.gif',
+    'https://cdn.weeb.sh/images/B1rZP6b-z.gif',
+    'https://cdn.weeb.sh/images/ByI7vTb-G.gif',
+    
+]
